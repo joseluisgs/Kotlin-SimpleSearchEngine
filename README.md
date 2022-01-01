@@ -25,7 +25,7 @@ Este proyecto de la academia Jetbrains fue realizado con el fin de evaluar la ca
     - [Parte 3](#parte-3)
       - [Description](#description-2)
       - [Objectives](#objectives-2)
-    - [Example](#example-1)
+      - [Example](#example-1)
     - [Parte 4](#parte-4)
       - [Description](#description-3)
       - [Objectives](#objectives-3)
@@ -146,7 +146,7 @@ In this stage, you need to create a menu. The menu should display the following 
 
 Decompose the program into separate methods to make it easy to understand and to further develop or edit.
 
-### Example
+#### Example
 In the example below, we use people's names and emails as a dataset example. The lines that start with > represent the user input. Note that these symbols are not part of the input.
 ```
 Enter the number of people:
