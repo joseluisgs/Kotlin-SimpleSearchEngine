@@ -31,10 +31,11 @@ Este proyecto de la academia Jetbrains fue realizado con el fin de evaluar la ca
       - [Objectives](#objectives-3)
       - [Example](#example-2)
     - [Parte 5](#parte-5)
+      - [Description](#description-4)
       - [Objectives](#objectives-4)
       - [Example](#example-3)
     - [Parte 6](#parte-6)
-      - [Description](#description-4)
+      - [Description](#description-5)
       - [Objectives](#objectives-5)
       - [Example](#example-4)
   - [Autor](#autor)
@@ -241,7 +242,7 @@ Rene Webb webb@gmail.com
 Bye!
 ````
 ### Parte 5
-####Description
+#### Description
 Now your program can successfully search for all matching lines, and the search is case- and space-insensitive. There is one problem though: you need to check each line to find out whether it contains the query string.
 
 To optimize your program, you can use a data structure called an Inverted Index. It maps each word to all positions/lines/documents in which the word occurs. As a result, when we receive a query, we can immediately find the answer without any comparisons.
